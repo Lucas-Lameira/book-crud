@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\bin\Debug\net5.0\Project.Books.exe
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\bin\Debug\net5.0\Project.Books.deps.json
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\bin\Debug\net5.0\Project.Books.runtimeconfig.json
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\bin\Debug\net5.0\Project.Books.runtimeconfig.dev.json
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\bin\Debug\net5.0\Project.Books.dll
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\bin\Debug\net5.0\ref\Project.Books.dll
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\bin\Debug\net5.0\Project.Books.pdb
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\obj\Debug\net5.0\Project.Books.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\obj\Debug\net5.0\Project.Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\obj\Debug\net5.0\Project.Books.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\obj\Debug\net5.0\Project.Books.AssemblyInfo.cs
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\obj\Debug\net5.0\Project.Books.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\obj\Debug\net5.0\Project.Books.dll
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\obj\Debug\net5.0\ref\Project.Books.dll
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\obj\Debug\net5.0\Project.Books.pdb
+C:\Users\lucas\Documents\projetos 2021\csharpProjects\Project.Books\obj\Debug\net5.0\Project.Books.genruntimeconfig.cache
